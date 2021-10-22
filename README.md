@@ -26,14 +26,14 @@
   <span><img height="32" width="32" src="https://simple-icon.netlify.app/css.svg" /></span>
   <span><img height="32" width="32" src="https://simple-icon.netlify.app/javascript.svg" /></span>
   <span><img height="32" width="32" src="https://simple-icon.netlify.app/php.svg" /></span>
-  <br>
+  <br><br>
   <p>Frameworks</p>
   <span><img height="32" width="32" src="https://simple-icon.netlify.app/bootstrap.svg" /></span>
   <span><img height="32" width="32" src="https://simple-icon.netlify.app/laravel.svg" /></span>
-  <br>
+  <br><br>
   <p>Libraries</p>
   <span><img height="32" width="32" src="https://simple-icon.netlify.app/react-js.svg" /></span>
-  <br>
+  <br><br>
   <p>Design Tools</p>
   <span><img height="32" width="32" src="https://simple-icon.netlify.app/adobe-ps.svg" /></span>
   <span><img height="32" width="32" src="https://simple-icon.netlify.app/adobe-ai.svg" /></span>
