@@ -22,37 +22,22 @@
 
 <p style="margin-top: 7px;">
   <p>Languages</p>
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" />
-  <a href="https://css-tricks.com/" style="margin-right: 7px;" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40"/> 
-  </a>
-  <a href="https://www.javascript.com/" style="margin-right: 7px;" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40"/>
-  </a>
-  <a href="https://www.php.net/" style="margin-right: 7px;" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40"/>
-  </a><br><br>
+  <img height="32" width="32" src="https://simple-icon.netlify.app/html.svg" />
+  <img height="32" width="32" src="https://simple-icon.netlify.app/css.svg" />
+  <img height="32" width="32" src="https://simple-icon.netlify.app/javascript.svg" />
+  <img height="32" width="32" src="https://simple-icon.netlify.app/php.svg" />
+  <br>
   <p>Frameworks</p>
-  <a href="https://getbootstrap.com/" style="margin-right: 7px;" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="40"/>
-  </a>
-  <a href="https://laravel.com/" style="margin-right: 7px;" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="40"/>
-  </a><br><br>
+  <img height="32" width="32" src="https://simple-icon.netlify.app/bootstrap.svg" />
+  <img height="32" width="32" src="https://simple-icon.netlify.app/laravel.svg" />
+  <br>
   <p>Libraries</p>
-  <a href="https://reactjs.org/" style="margin-right: 7px;" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40"/>
-  </a><br><br>
+  <img height="32" width="32" src="https://simple-icon.netlify.app/react-js.svg" />
+  <br>
   <p>Design Tools</p>
-  <a href="https://www.adobe.com/products/photoshop.html" style="margin-right: 7px;" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html" style="margin-right: 7px;" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" style="margin-right: 7px;" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" height="40"/>
-  </a>
+  <img height="32" width="32" src="https://simple-icon.netlify.app/adobe-ps.svg" />
+  <img height="32" width="32" src="https://simple-icon.netlify.app/adobe-ai.svg" />
+  <img height="32" width="32" src="https://simple-icon.netlify.app/adobe-xd.svg" />
 </p>
 
 <!-- <p>
