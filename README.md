@@ -1,4 +1,3 @@
-<div style="background-color: white; color: black; padding: 45px;">
 <h2 align="center">
   <img src="https://drive.google.com/uc?id=1utse6W24eesDOipF2BpIuSpn21IYHlMP" height="225"/>
 </h2>
@@ -17,10 +16,10 @@
 
 - ⚡ Fun fact **I ride Bike and go to the Camping sometimes** 
 
-<h2 style="margin-top: 45px;">🚀 Skills</h2>
+<h2>🚀 Skills</h2>
 
 <p style="margin-top: 7px;"> 
-  <em>Languages</em><br/>
+  <p style="margin: 15px 0 7px;">Languages</p>
   <a href="https://html.com/" style="margin-right: 7px;" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40"/>
   </a>
@@ -33,18 +32,18 @@
   <a href="https://www.php.net/" style="margin-right: 7px;" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40"/>
   </a>
-  <em style="display: block; margin: 15px 0;">Frameworks</em>
+  <p style="margin: 15px 0 7px;">Frameworks</p>
   <a href="https://getbootstrap.com/" style="margin-right: 7px;" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="40"/>
   </a>
   <a href="https://laravel.com/" style="margin-right: 7px;" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="40"/>
   </a>
-  <em style="display: block; margin: 15px 0;">Libraries</em>
+  <p style="margin: 15px 0 7px;">Libraries</p>
   <a href="https://reactjs.org/" style="margin-right: 7px;" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40"/>
   </a>
-  <em style="display: block; margin: 15px 0;">Design Tools</em>
+  <p style="margin: 15px 0 7px;">Design Tools</p>
   <a href="https://www.adobe.com/products/photoshop.html" style="margin-right: 7px;" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40"/>
   </a>
@@ -94,4 +93,3 @@
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a> -->
-</div>
