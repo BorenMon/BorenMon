@@ -16,10 +16,12 @@
 
 - ⚡ Fun fact **I ride Bike and go to the Camping sometimes** 
 
+<br>
+
 <h2>🚀 Skills</h2>
 
-<p style="margin-top: 7px;"> 
-  <p style="margin: 15px 0 7px;">Languages</p>
+<p style="margin-top: 7px;">
+  <p>Languages</p>
   <a href="https://html.com/" style="margin-right: 7px;" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40"/>
   </a>
@@ -31,19 +33,19 @@
   </a>
   <a href="https://www.php.net/" style="margin-right: 7px;" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40"/>
-  </a>
-  <p style="margin: 15px 0 7px;">Frameworks</p>
+  </a><br><br>
+  <p>Frameworks</p>
   <a href="https://getbootstrap.com/" style="margin-right: 7px;" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="40"/>
   </a>
   <a href="https://laravel.com/" style="margin-right: 7px;" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="40"/>
-  </a>
-  <p style="margin: 15px 0 7px;">Libraries</p>
+  </a><br><br>
+  <p>Libraries</p>
   <a href="https://reactjs.org/" style="margin-right: 7px;" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40"/>
-  </a>
-  <p style="margin: 15px 0 7px;">Design Tools</p>
+  </a><br><br>
+  <p>Design Tools</p>
   <a href="https://www.adobe.com/products/photoshop.html" style="margin-right: 7px;" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40"/>
   </a>
