@@ -22,22 +22,22 @@
 
 <p style="margin-top: 7px;">
   <p>Languages</p>
-  <img height="32" width="32" src="https://simple-icon.netlify.app/html.svg" />
-  <img height="32" width="32" src="https://simple-icon.netlify.app/css.svg" />
-  <img height="32" width="32" src="https://simple-icon.netlify.app/javascript.svg" />
-  <img height="32" width="32" src="https://simple-icon.netlify.app/php.svg" />
+  <span><img height="32" width="32" src="https://simple-icon.netlify.app/html.svg" /></span>
+  <span><img height="32" width="32" src="https://simple-icon.netlify.app/css.svg" /></span>
+  <span><img height="32" width="32" src="https://simple-icon.netlify.app/javascript.svg" /></span>
+  <span><img height="32" width="32" src="https://simple-icon.netlify.app/php.svg" /></span>
   <br>
   <p>Frameworks</p>
-  <img height="32" width="32" src="https://simple-icon.netlify.app/bootstrap.svg" />
-  <img height="32" width="32" src="https://simple-icon.netlify.app/laravel.svg" />
+  <span><img height="32" width="32" src="https://simple-icon.netlify.app/bootstrap.svg" /></span>
+  <span><img height="32" width="32" src="https://simple-icon.netlify.app/laravel.svg" /></span>
   <br>
   <p>Libraries</p>
-  <img height="32" width="32" src="https://simple-icon.netlify.app/react-js.svg" />
+  <span><img height="32" width="32" src="https://simple-icon.netlify.app/react-js.svg" /></span>
   <br>
   <p>Design Tools</p>
-  <img height="32" width="32" src="https://simple-icon.netlify.app/adobe-ps.svg" />
-  <img height="32" width="32" src="https://simple-icon.netlify.app/adobe-ai.svg" />
-  <img height="32" width="32" src="https://simple-icon.netlify.app/adobe-xd.svg" />
+  <span><img height="32" width="32" src="https://simple-icon.netlify.app/adobe-ps.svg" /></span>
+  <span><img height="32" width="32" src="https://simple-icon.netlify.app/adobe-ai.svg" /></span>
+  <span><img height="32" width="32" src="https://simple-icon.netlify.app/adobe-xd.svg" /></span>
 </p>
 
 <!-- <p>
