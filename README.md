@@ -20,7 +20,7 @@
 <h2 style="margin-top: 45px;">🚀 Skills</h2>
 
 <p style="margin-top: 7px;"> 
-  <em style="display: block; margin-bottom: 15px;">Languages</em>
+  <em>Languages</em><br/>
   <a href="https://html.com/" style="margin-right: 7px;" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40"/>
   </a>
