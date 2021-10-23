@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **borenmon5@gmail.com**
 
-- ⚡ Fun fact **I ride Bike and go to the Camping sometimes** 
+- ⚡ Fun fact **I love Superhero Movies** 
 
 <br>
 
