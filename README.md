@@ -8,13 +8,13 @@
 
 <h2>🙋‍♂️ About Me</h2>
 
-- 🔭 I’m currently working on **[maplaet - Real Estate Web App](https://google.com/)**
+- 🔭 I’m currently working on **[maplaet - Real Estate Web App](https://maplaet.com/)**
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently focus on **Frontend Development**
 
-- 📫 How to reach me **borenmon5@gmail.com**
+- 📫 Email me, **borenmon5@gmail.com**
 
-- ⚡ Fun fact **I love Superhero Movies** 
+- ⚡ Fun fact, **I love Superhero Movies** 
 
 <br>
 
