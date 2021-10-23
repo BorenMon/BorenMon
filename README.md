@@ -45,22 +45,22 @@
 </p>
 <br>
 <p align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Boren Mon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BorenMon&theme=Javascript-dark&hide_border=true&stroke=0000&background=060A0CD0"/>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Boren Mon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BorenMon&theme=react&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 <br>
 <h2>📊 My Github Stats</h2>
 
   <br/>
-    <img alt="Boren Mon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BorenMon&show_icons=true&count_private=true&theme=Javascript-dark&hide_border=true&bg_color=0D1117" />
-  <img alt="Boren Mon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorenMon&langs_count=8&count_private=true&layout=compact&theme=Javascript-dark&hide_border=true&bg_color=0D1117" />
+  <div align="center"><img alt="Boren Mon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BorenMon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></div>
+  <div align="center"><img alt="Boren Mon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorenMon&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></div>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 
 
 <br/>
 <br/>
 
-<img alt="Boren Mon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BorenMon&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<div align="center"><img alt="Boren Mon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BorenMon&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></div>
 
 <br/>
 <br/>
