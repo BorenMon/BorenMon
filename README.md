@@ -70,8 +70,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="https://www.facebook.com/BorenMon7"><img height="32" width="32" src="https://simple-icon.netlify.app/facebook.svg"/></a>
+<a href="https://www.instagram.com/bore__mon/"><img height="32" width="32" src="https://simple-icon.netlify.app/instagram.svg"/></a>
 
 </p>
 
