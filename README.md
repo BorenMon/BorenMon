@@ -65,7 +65,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## Connect with me
 <p align="left">
 
 <a target="_blank" href="https://www.facebook.com/BorenMon7"><img height="32" width="32" src="https://simple-icon.netlify.app/facebook.svg"/></a>
