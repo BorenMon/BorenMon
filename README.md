@@ -22,15 +22,15 @@
 
 <p style="margin-top: 7px;">
   <p>Languages</p>
-  <span><img height="32" width="32" src="https://simple-icon.netlify.app/html.svg" /></span>
-  <span><img height="32" width="32" src="https://simple-icon.netlify.app/css.svg" /></span>
-  <span><img height="32" width="32" src="https://simple-icon.netlify.app/sass.svg" /></span>
-  <span><img height="32" width="32" src="https://simple-icon.netlify.app/javascript.svg" /></span>
-  <span><img height="32" width="32" src="https://simple-icon.netlify.app/php.svg" /></span>
+  <span><img height="32" src="https://simple-icon.netlify.app/html.svg" /></span>
+  <span><img height="32" src="https://simple-icon.netlify.app/css.svg" /></span>
+  <span><img height="32" src="https://simple-icon.netlify.app/sass.svg" /></span>
+  <span><img height="32" src="https://simple-icon.netlify.app/javascript.svg" /></span>
+  <span><img height="32" src="https://simple-icon.netlify.app/php.svg" /></span>
   <br><br>
   <p>Frameworks</p>
-  <span><img height="32" width="32" src="https://simple-icon.netlify.app/bootstrap.svg" /></span>
-  <span><img height="32" width="32" src="https://simple-icon.netlify.app/laravel.svg" /></span>
+  <span><img height="32" src="https://simple-icon.netlify.app/bootstrap.svg" /></span>
+  <span><img height="32" src="https://simple-icon.netlify.app/laravel.svg" /></span>
   <br><br>
   <p>Databases</p>
   <span><img height="32" width="32" src="https://simple-icon.netlify.app/mysql.svg" /></span>
@@ -39,9 +39,9 @@
   <span><img height="32" width="32" src="https://simple-icon.netlify.app/react-js.svg" /></span>
   <br><br>
   <p>Design Tools</p>
-  <span><img height="32" width="32" src="https://simple-icon.netlify.app/adobe-ps.svg" /></span>
-  <span><img height="32" width="32" src="https://simple-icon.netlify.app/adobe-ai.svg" /></span>
-  <span><img height="32" width="32" src="https://simple-icon.netlify.app/adobe-xd.svg" /></span>
+  <span><img height="32" src="https://simple-icon.netlify.app/adobe-ps.svg" /></span>
+  <span><img height="32" src="https://simple-icon.netlify.app/adobe-ai.svg" /></span>
+  <span><img height="32" src="https://simple-icon.netlify.app/adobe-xd.svg" /></span>
 </p>
 <br>
 <p align="center">
@@ -68,8 +68,8 @@
 ## Connect with me
 <p align="left">
 
-<a target="_blank" href="https://www.facebook.com/BorenMon7"><img height="32" width="32" src="https://simple-icon.netlify.app/facebook.svg"/></a>
-<a target="_blank" href="https://www.instagram.com/bore__mon/"><img height="32" width="32" src="https://simple-icon.netlify.app/instagram.svg"/></a>
+<a target="_blank" href="https://www.facebook.com/BorenMon7"><img height="32" src="https://simple-icon.netlify.app/facebook.svg"/></a>
+<a target="_blank" href="https://www.instagram.com/bore__mon/"><img height="32" src="https://simple-icon.netlify.app/instagram.svg"/></a>
 
 </p>
 
