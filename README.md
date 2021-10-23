@@ -74,5 +74,5 @@
 </p>
 
 ## ❤ Views and Followers
-<img src="https://komarev.com/ghpvc/?username=BorenMon">
+<span><img src="https://komarev.com/ghpvc/?username=BorenMon"></span>
 <a href="https://github.com/BorenMon?tab=followers"><img src="https://img.shields.io/github/followers/BorenMon?label=Followers&style=social" alt="GitHub Badge"></a>
