@@ -53,8 +53,8 @@
 <h2>📊 My Github Stats</h2>
 
   <br/>
-    <a href="https://github.com/BorenMon/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BorenMon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/BorenMon/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorenMon&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/BorenMon/github-readme-stats"><img alt="Boren Mon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BorenMon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/BorenMon/github-readme-stats"><img alt="Boren Mon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorenMon&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -62,7 +62,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/BorenMon/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BorenMon&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/BorenMon/github-readme-activity-graph"><img alt="Boren Mon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BorenMon&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -70,8 +70,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href="https://www.facebook.com/BorenMon7"><img height="32" width="32" src="https://simple-icon.netlify.app/facebook.svg"/></a>
-<a href="https://www.instagram.com/bore__mon/"><img height="32" width="32" src="https://simple-icon.netlify.app/instagram.svg"/></a>
+<a target="_blank" href="https://www.facebook.com/BorenMon7"><img height="32" width="32" src="https://simple-icon.netlify.app/facebook.svg"/></a>
+<a target="_blank" href="https://www.instagram.com/bore__mon/"><img height="32" width="32" src="https://simple-icon.netlify.app/instagram.svg"/></a>
 
 </p>
 
