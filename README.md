@@ -31,6 +31,7 @@
   <p>Frameworks</p>
   <span><img height="32" src="https://simple-icon.netlify.app/bootstrap.svg" /></span>
   <span><img height="32" src="https://simple-icon.netlify.app/tailwindcss.svg" /></span>
+  <span><img height="32" src="https://simple-icon.netlify.app/laravel.svg" /></span>
   <br><br>
   <p>Databases</p>
   <span><img height="32" width="32" src="https://simple-icon.netlify.app/mysql.svg" /></span>
