@@ -8,7 +8,7 @@
 
 <h2>🙋‍♂️ About Me</h2>
 
-- 🔭 I’m currently working on **[maplaet - Real Estate Web App](https://maplaet.com/)**
+- 🔭 I’m currently working on **maplaet**
 
 - 🌱 I’m currently focus on **Frontend Development**
 
