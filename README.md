@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **maplaet**
 
-- 🌱 I’m currently focus on **Frontend Development**
+- 🌱 I’m currently focus on **Web Development**
 
 - 📫 Email me, **borenmon5@gmail.com**
 
