@@ -8,8 +8,6 @@
 
 <h2>🙋‍♂️ About Me</h2>
 
-- 🔭 I’m currently working on **maplaet**
-
 - 🌱 I’m currently focus on **Web Development**
 
 - 📫 Email me, **borenmon5@gmail.com**
@@ -61,7 +59,7 @@
 <br/>
 <br/>
 
-<div align="center"><img alt="Boren Mon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BorenMon&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></div>
+<!-- <div align="center"><img alt="Boren Mon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BorenMon&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></div> -->
 
 <br/>
 <br/>
